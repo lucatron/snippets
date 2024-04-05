@@ -19,4 +19,4 @@ CodeSnippets Next.js simplifies code snippet management with Next.js and React M
 ### Usage
 
 
-**npm run dev **
+**npm run dev**
