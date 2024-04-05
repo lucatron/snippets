@@ -16,4 +16,7 @@ CodeSnippets Next.js simplifies code snippet management with Next.js and React M
 - **Tailwind CSS:** Utility-first CSS framework.
 - **Prisma:** Database ORM for managing data.
 
-  **npm run dev **
+### Usage
+
+
+**npm run dev **
